@@ -1,0 +1,7 @@
+.mydiv {
+    background-color: tomato;
+    height: 200px;width: 200px;
+    border: solid thick rebeccapurple;
+    border-radius: 100px;margin:20px;
+    box-shadow: slategrey  5px 5px 5px; 
+}

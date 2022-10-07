@@ -1,0 +1,6 @@
+.mydiv1 {
+    background-color: rgb(92, 255, 71);
+    height: 200px;width: 200px;
+    border: solid thick rgb(153, 51, 51);
+    border-radius: 100px;margin:20px
+}
